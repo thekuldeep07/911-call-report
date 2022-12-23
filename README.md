@@ -11,3 +11,13 @@ Made this Simple Data analysis project during my learning path of Machine learni
 <p float="center">
   <img src="Screenshot from 2022-05-21 18-52-30.png" />
 </p>
+
+<p float="center">
+  <img src="Screenshot from 2022-05-21 18-52-37.png" />
+</p>
+
+
+<p float="center">
+  <img src="Screenshot from 2022-05-21 18-52-49.png" />
+</p>
+
