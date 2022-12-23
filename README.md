@@ -7,3 +7,7 @@ Made this Simple Data analysis project during my learning path of Machine learni
 - [Pandas](https://pandas.pydata.org/)
 - [seaborn](https://seaborn.pydata.org/) 
 - [matplotlib](https://matplotlib.org/)  
+
+<p float="center">
+  <img src="Screenshot from 2022-05-21 18-52-30.png" />
+</p>
